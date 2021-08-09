@@ -66,5 +66,5 @@ The repository has a number of files including python scripts, jupyter notebooks
 ```
 git clone https://github.com/10-Academy-Batch-4-Week-4/Swahili-Speech-To-Text
 cd Swahili-Speech-To-Text
-pip install -r requirements.txt.
+pip install -r requirements.txt
 ```
